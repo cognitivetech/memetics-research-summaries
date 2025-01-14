@@ -25,7 +25,6 @@ These are two different generation methods based on the input type. I am interes
 ## Detection and Classification
 - [MemeFier: Dual-stage Modality Fusion for Image Meme Classification](./memefier-dual-stage-modality-fusion-for-image-meme-classification_2304.02906.md)
 - [MemeTector: Enforcing deep focus for meme detection](./memetector-enforcing-deep-focus-for-meme-detection_2205.13268.md)
-- [TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification](./teamxdravidianlangtech-acl2022-a-comparative-analysis-for-troll-based-meme-classification_2205.04404.md)
 - [UVCE-IIITT@DravidianLangTech-EACL2021: Tamil Troll Meme Classification: You need to Pay more Attention](./uvce-iiittdravidianlangtech-eacl2021-tamil-troll-meme-classification-you-need-to-pay-more-attention_2104.09081.md)
 - [A CLIP-based siamese approach for meme classification](./A-CLIP-based-siamese-approach-for-meme-classification.md)
 - [MemeCLIP: Leveraging CLIP Representations for Multimodal Meme Classification](./MemeCLIP-Leveraging-CLIP-Representations-for-Multimodal-Meme-Classification.md)
