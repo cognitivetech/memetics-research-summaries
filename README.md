@@ -8,17 +8,18 @@ These are two different generation methods based on the input type. I am interes
 
 ## Contents
 - [arXiv](#arxiv)
-  - [Generation and Creation](#generation-and-creation)
-  - [Applications and Special Uses](#applications-and-special-uses)
-  - [Safety and Robustness](#safety-and-robustness)
-  - [Detection and Classification](#detection-and-classification)
-    - [Emotion and Sentiment Analysis](#emotion-and-sentiment-analysis)
-    - [Hate and Toxicity Detection](#hate-and-toxicity-detection)
-  - [Analysis and Understanding](#analysis-and-understanding)
-    - [Virality and Evolution Studies](#virality-and-evolution-studies)
-    - [Linguistic and Content Analysis](#linguistic-and-content-analysis)
-    - [Financial Impact](#financial-impact)
-    - [Datasets and Tools](#datasets-and-tools)
+	- [Generation and Creation](#generation-and-creation)
+	- [Applications and Special Uses](#applications-and-special-uses)
+	- [Safety and Robustness](#safety-and-robustness)
+	- [Detection and Classification](#detection-and-classification)
+		- [Emotion and Sentiment Analysis](#emotion-and-sentiment-analysis)
+		- [Hate and Toxicity Detection](#hate-and-toxicity-detection)
+	- [Analysis and Understanding](#analysis-and-understanding)
+		- [Virality and Evolution Studies](#virality-and-evolution-studies)
+		- [Linguistic and Content Analysis](#linguistic-and-content-analysis)
+		- [Financial Impact](#financial-impact)
+		- [Datasets and Tools](#datasets-and-tools)
+- [Defender's Corner: Culture Science](#defenders-corner-culture-science)
 
 ## arXiv
 ### Generation and Creation
@@ -102,3 +103,15 @@ These are two different generation methods based on the input type. I am interes
 - [BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification](arXiv/BanglaAbuseMeme-A-Dataset-for-Bengali-Abusive-Meme-Classification.md)
 - [DisinfoMeme: A Multimodal Dataset for Detecting Meme Intentionally Spreading Out Disinformation](arXiv/disinfomeme-a-multimodal-dataset-for-detecting-meme-intentionally-spreading-out-disinformation_2205.12617.md)
 - [MATK: The Meme Analytical Tool Kit](arXiv/MATK-The-Meme-Analytical-Tool-Kit.md)
+
+## Defender's Corner: Culture Science
+- [A Beginner's Guide to Culture Science](Defenders-Corner-Substack.md#a-beginners-guide-to-culture-science)
+- [Why are we putting up with clickbait?](Defenders-Corner-Substack.md#why-are-we-putting-up-with-clickbait)
+- [Blue tribe is starting to win by adopting the best of conservative values](Defenders-Corner-Substack.md#blue-tribe-is-starting-to-win-by-adopting-the-best-of-conservative-values)
+- [Can we use Twitter Radar to empirically study \& predict culture?](Defenders-Corner-Substack.md#can-we-use-twitter-radar-to-empirically-study--predict-culture)
+- [How to build culture tech](Defenders-Corner-Substack.md#how-to-build-culture-tech)
+- [Destigmatize being dumb](Defenders-Corner-Substack.md#destigmatize-being-dumb)
+- [Narrative Spears ](Defenders-Corner-Substack.md#narrative-spears-)
+- ["We've been wrong about math for 2300 years \& I'm here to fix it"](Defenders-Corner-Substack.md#weve-been-wrong-about-math-for-2300-years--im-here-to-fix-it)
+- [Feynman's Razor](Defenders-Corner-Substack.md#feynmans-razor-)
+
