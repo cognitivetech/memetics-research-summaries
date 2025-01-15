@@ -24,10 +24,10 @@ These are two different generation methods based on the input type. I am interes
 ## arXiv
 ### Generation and Creation
 - [A Template Is All You Meme](arXiv/a-template-is-all-you-meme_2311.06649.md)
-- [MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](arXiv/MemeCraft-Contextual-and-Stance-Driven-Multimodal-Meme-Generation.md)
+- [MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](arXiv/MemeCraft-Contextual-and-Stance-Driven-Multimodal-Meme-Generation_2403.14652.md)
 - [MemeFaceGenerator: Adversarial Synthesis of Chinese Meme-face from Natural Sentences](arXiv/memefacegenerator-adversarial-synthesis-of-chinese-meme-face-from-natural-sentences_1908.05138.md)
 - [Memeify: A Large-Scale Meme Generation System](arXiv/memeify-a-large-scale-meme-generation-system_1910.12279.md)
-- [XMeCap: Meme Caption Generation with Sub-Image Adaptability](arXiv/XMeCap-Meme-Caption-Generation-with-Sub-Image-Adaptability.md)
+- [XMeCap: Meme Caption Generation with Sub-Image Adaptability](arXiv/XMeCap-Meme-Caption-Generation-with-Sub-Image-Adaptability_2407.17152.md)
 
 ### Applications and Special Uses
 - [Meme as Building Block for Evolutionary Optimization of Problem Instances](arXiv/meme-as-building-block-for-evolutionary-optimization-of-problem-instances_1207.0702.md)
@@ -35,19 +35,19 @@ These are two different generation methods based on the input type. I am interes
 - [Variance of entropy for testing time-varying regimes with an application to meme stocks](arXiv/variance-of-entropy-for-testing-time-varying-regimes-with-an-application-to-meme-stocks_2211.05415.md)
 
 ### Safety and Robustness
-- [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](arXiv/GOAT-Bench-Safety-Insights-to-Large-Multimodal-Models-through-Meme-Based-Social-Abuse.md)
-- [MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention](arXiv/MemeGuard-An-LLM-and-VLM-based-Framework-for-Advancing-Content-Moderation-via-Meme-Intervention.md)
+- [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](arXiv/GOAT-Bench-Safety-Insights-to-Large-Multimodal-Models-through-Meme-Based-Social-Abuse_2401.01523.md)
+- [MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention](arXiv/MemeGuard-An-LLM-and-VLM-based-Framework-for-Advancing-Content-Moderation-via-Meme-Intervention_2406.05344.md)
 
 ### Detection and Classification
 - [MemeFier: Dual-stage Modality Fusion for Image Meme Classification](arXiv/memefier-dual-stage-modality-fusion-for-image-meme-classification_2304.02906.md)
 - [MemeTector: Enforcing deep focus for meme detection](arXiv/memetector-enforcing-deep-focus-for-meme-detection_2205.13268.md)
 - [UVCE-IIITT@DravidianLangTech-EACL2021: Tamil Troll Meme Classification: You need to Pay more Attention](arXiv/uvce-iiittdravidianlangtech-eacl2021-tamil-troll-meme-classification-you-need-to-pay-more-attention_2104.09081.md)
-- [A CLIP-based siamese approach for meme classification](arXiv/A-CLIP-based-siamese-approach-for-meme-classification.md)
-- [MemeCLIP: Leveraging CLIP Representations for Multimodal Meme Classification](arXiv/MemeCLIP-Leveraging-CLIP-Representations-for-Multimodal-Meme-Classification.md)
+- [A CLIP-based siamese approach for meme classification](arXiv/A-CLIP-based-siamese-approach-for-meme-classification_2409.05772.md)
+- [MemeCLIP: Leveraging CLIP Representations for Multimodal Meme Classification](arXiv/MemeCLIP-Leveraging-CLIP-Representations-for-Multimodal-Meme-Classification_2409.14703.md)
 
 #### Emotion and Sentiment Analysis
 - [DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis](arXiv/dsc-iit-ism-at-semeval-2020-task-8-bi-fusion-techniques-for-deep-meme-emotion-analysis_2008.00825.md)
-- [Emotion-Aware Multimodal Fusion for Meme Emotion Detection](arXiv/Emotion-Aware-Multimodal-Fusion-for-Meme-Emotion-Detection.md)
+- [Emotion-Aware Multimodal Fusion for Meme Emotion Detection](arXiv/Emotion-Aware-Multimodal-Fusion-for-Meme-Emotion-Detection_2403.10279.md)
 - [Meme Sentiment Analysis Enhanced with Multimodal Spatial Encoding and Facial Embedding](arXiv/meme-sentiment-analysis-enhanced-with-multimodal-spatial-encoding-and-facial-embedding_2303.01781.md)
 - [Unimodal Intermediate Training for Multimodal Meme Sentiment Classification](arXiv/unimodal-intermediate-training-for-multimodal-meme-sentiment-classification_2308.00528.md)
 - [Domain-aware Self-supervised Pre-training for Label-Efficient Meme Analysis](arXiv/domain-aware-self-supervised-pre-training-for-label-efficient-meme-analysis_2209.14667.md)
@@ -57,22 +57,22 @@ These are two different generation methods based on the input type. I am interes
 - [NYCU-TWO at Memotion 3: Good Foundation, Good Teacher, then you have Good Meme Analysis](arXiv/nycu-two-at-memotion-3-good-foundation-good-teacher-then-you-have-good-meme-analysis_2302.06078.md)
 
 #### Hate and Toxicity Detection
-- [Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities](arXiv/Toxic-Memes-A-Survey-of-Computational-Perspectives-on-the-Detection-and-Explanation-of-Meme-Toxicities.md)
+- [Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities](arXiv/Toxic-Memes-A-Survey-of-Computational-Perspectives-on-the-Detection-and-Explanation-of-Meme-Toxicities_2406.07353.md)
 - [An Interpretable Approach to Hateful Meme Detection](arXiv/an-interpretable-approach-to-hateful-meme-detection_2108.10069.md)
 - [AOMD: An Analogy-aware Approach to Offensive Meme Detection](arXiv/aomd-an-analogy-aware-approach-to-offensive-meme-detection-on-social-media_2106.11229.md)
 - [Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features](arXiv/hate-clipper-multimodal-hateful-meme-classification-based-on-cross-modal-interaction-of-clip-features_2210.05916.md)
 - [HateProof: Are Hateful Meme Detection Systems really Robust?](arXiv/hateproof-are-hateful-meme-detection-systems-really-robust_2302.05703.md)
-- [Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning](arXiv/Improving-Hateful-Meme-Detection-through-Retrieval-Guided-Contrastive-Learning.md)
-- [Zero shot VLMs for hate meme detection: Are we there yet?](arXiv/Zero-shot-VLMs-for-hate-meme-detection-Are-we-there-yet.md)
+- [Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning](arXiv/Improving-Hateful-Meme-Detection-through-Retrieval-Guided-Contrastive-Learning_2311.08110.md)
+- [Zero shot VLMs for hate meme detection: Are we there yet?](arXiv/Zero-shot-VLMs-for-hate-meme-detection-Are-we-there-yet_2402.12198.md)
 - [Enhance Multimodal Model Performance with Data Augmentation: Facebook Hateful Meme Challenge Solution](arXiv/enhance-multimodal-model-performance-with-data-augmentation-facebook-hateful-meme-challenge-solution_2105.13132.md)
 - [Feels Bad Man: Dissecting Automated Hateful Meme Detection Through the Lens of Facebook's Challenge](arXiv/feels-bad-man-dissecting-automated-hateful-meme-detection-through-the-lens-of-facebooks-challenge_2202.08492.md)
 - [Pro-Cap: Leveraging a Frozen Vision-Language Model for Hateful Meme Detection](arXiv/pro-cap-leveraging-a-frozen-vision-language-model-for-hateful-meme-detection_2308.08088.md)
 - [Mapping Memes to Words for Multimodal Hateful Meme Classification](arXiv/mapping-memes-to-words-for-multimodal-hateful-meme-classification_2310.08368.md)
-- [OSPC: Artificial VLM Features for Hateful Meme Detection](arXiv/OSPC-Artificial-VLM-Features-for-Hateful-Meme-Detection.md)
+- [OSPC: Artificial VLM Features for Hateful Meme Detection](arXiv/OSPC-Artificial-VLM-Features-for-Hateful-Meme-Detection_2407.12836.md)
 
 ##### Misogyny Identification
 - [Codec at SemEval-2022 Task 5: Multi-Modal Multi-Transformer Misogynous Meme Classification Framework](arXiv/codec-at-semeval-2022-task-5-multi-modal-multi-transformer-misogynous-meme-classification-framework_2206.07190.md)
-- [M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought](arXiv/M3Hop-CoT-Misogynous-Meme-Identification-with-Multimodal-Multi-hop-Chain-of-Thought.md)
+- [M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought](arXiv/M3Hop-CoT-Misogynous-Meme-Identification-with-Multimodal-Multi-hop-Chain-of-Thought_2410.09220.md)
 - [Misogynistic Meme Detection using Early Fusion Model with Graph Network](arXiv/misogynistic-meme-detection-using-early-fusion-model-with-graph-network_2203.16781.md)
 
 ### Analysis and Understanding
@@ -89,10 +89,10 @@ These are two different generation methods based on the input type. I am interes
 - [Sleeping Beauties in Meme Diffusion](arXiv/sleeping-beauties-in-meme-diffusion_1604.07532.md)
 
 #### Linguistic and Content Analysis
-- [Analyzing Persuasive Strategies in Meme Texts: A Fusion of Language Models with Paraphrase Enrichment](arXiv/Analyzing-Persuasive-Strategies-in-Meme-Texts-A-Fusion-of-Language-Models-with-Paraphrase-Enrichment.md)
+- [Analyzing Persuasive Strategies in Meme Texts: A Fusion of Language Models with Paraphrase Enrichment](arXiv/Analyzing-Persuasive-Strategies-in-Meme-Texts-A-Fusion-of-Language-Models-with-Paraphrase-Enrichment_2407.01784.md)
 - [Automatic Discovery of Political Meme Genres with Diverse Appearances](arXiv/automatic-discovery-of-political-meme-genres-with-diverse-appearances_2001.06122.md)
 - [Social Meme-ing: Measuring Linguistic Variation in Memes](arXiv/social-meme-ing-measuring-linguistic-variation-in-memes_2311.09130.md)
-- [What Makes a Meme a Meme? Identifying Memes for Memetics-Aware Dataset Creation](arXiv/What-Makes-a-Meme-a-Meme-Identifying-Memes-for-Memetics-Aware-Dataset-Creation.md)
+- [What Makes a Meme a Meme? Identifying Memes for Memetics-Aware Dataset Creation](arXiv/What-Makes-a-Meme-a-Meme-Identifying-Memes-for-Memetics-Aware-Dataset-Creation_2407.11861.md)
 
 #### Financial Impact
 - [Exploring the Endogenous Nature of Meme Stocks Using the Log-Periodic Power Law Model and Confidence Indicator](arXiv/exploring-the-endogenous-nature-of-meme-stocks-using-the-log-periodic-power-law-model-and-confidence-indicator_2110.06190.md)
@@ -100,9 +100,9 @@ These are two different generation methods based on the input type. I am interes
 - [The echo chamber effect resounds on financial markets: a social media alert system for meme stocks](arXiv/the-echo-chamber-effect-resounds-on-financial-markets-a-social-media-alert-system-for-meme-stocks_2203.13790.md)
 
 #### Datasets and Tools
-- [BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification](arXiv/BanglaAbuseMeme-A-Dataset-for-Bengali-Abusive-Meme-Classification.md)
+- [BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification](arXiv/BanglaAbuseMeme-A-Dataset-for-Bengali-Abusive-Meme-Classification_2310.11748.md)
 - [DisinfoMeme: A Multimodal Dataset for Detecting Meme Intentionally Spreading Out Disinformation](arXiv/disinfomeme-a-multimodal-dataset-for-detecting-meme-intentionally-spreading-out-disinformation_2205.12617.md)
-- [MATK: The Meme Analytical Tool Kit](arXiv/MATK-The-Meme-Analytical-Tool-Kit.md)
+- [MATK: The Meme Analytical Tool Kit](arXiv/MATK-The-Meme-Analytical-Tool-Kit_2312.06094.md)
 
 ## Defender's Corner: Culture Science
 - [A Beginner's Guide to Culture Science](Defenders-Corner-Substack.md#a-beginners-guide-to-culture-science)
