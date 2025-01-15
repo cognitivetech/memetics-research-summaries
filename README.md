@@ -45,7 +45,7 @@ These are two different generation methods based on the input type. I am interes
    - Custom architectures (MemeFier, MemeTector)
    - Task-specific models
    - Heavy feature engineering
-2. Modern CLIP/Embedding Era:
+2. Modern [CLIP](https://github.com/cognitivetech/llm-research-summaries/blob/main/document-processing/Learning-Transferable-Visual-Models-From-Natural-Language-Supervision_2103.00020.md)/Embedding Era:
    - Leveraging pre-trained models
    - Focus on adapting large-scale embeddings
    - Multiple CLIP-based approaches
@@ -53,7 +53,7 @@ These are two different generation methods based on the input type. I am interes
    - Limited resources
    - Domain-specific needs
    - Interpretability
-   - Specific performance requirements\
+   - Specific performance requirements
 
 ---
 - [A CLIP-based siamese approach for meme classification](arXiv/A-CLIP-based-siamese-approach-for-meme-classification_2409.05772.md) (2024-09)
