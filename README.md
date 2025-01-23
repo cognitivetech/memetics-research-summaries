@@ -1,10 +1,5 @@
 # Memetics Reserach Summaries
 
-\***Note**:
-- Filename with Title Case have a flat structure
-- Lower case filenames have a clickable ToC and were summarized by section.
-
-These are two different generation methods based on the input type. I am interested in feedback on how people like the different styles.
 
 ## Contents
 - [Papers](#papers)
