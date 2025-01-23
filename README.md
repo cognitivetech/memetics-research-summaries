@@ -1,19 +1,13 @@
 # Memetics Reserach Summaries
 
-
 ## Contents
 - [Papers](#papers)
   - [Generation and Creation](#generation-and-creation)
   - [Applications and Special Uses](#applications-and-special-uses)
   - [Safety and Robustness](#safety-and-robustness)
   - [Detection and Classification](#detection-and-classification)
-    - [Emotion and Sentiment Analysis](#emotion-and-sentiment-analysis)
-    - [Hate and Toxicity Detection](#hate-and-toxicity-detection)
   - [Analysis and Understanding](#analysis-and-understanding)
-    - [Virality and Evolution Studies](#virality-and-evolution-studies)
-    - [Linguistic and Content Analysis](#linguistic-and-content-analysis)
-    - [Financial Impact](#financial-impact)
-    - [Datasets and Tools](#datasets-and-tools)
+- [Books](#books)
 - [Defender's Corner: Culture Science](#defenders-corner-culture-science)
 
 ## Papers
